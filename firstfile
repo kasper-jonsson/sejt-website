@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dette er mit website</title>
+</head>
+<body>
+
+<h1>Velkommen til et sejt website</h1>
+<p>Hej og velkommen til. <br>Jeg håber du kommer til at få en god oplevelse på mit seje website.</p>
+<hr>
+<img src="file:///Users/kasperjonsson/Dropbox/Min%20Mac%20(Kasper%E2%80%99s%20MacBook%20Air)/Documents/E-Handel/1.%20Semester/Teknisk%20Brobygning/Website/Visuals/abe.jpeg">
+<h2>God dag</h2>
+<p>Tak for kigget.</p>
+<a href=twitter.com>Tjek det her ud tak.</a>
+
+</body>
+</html>
